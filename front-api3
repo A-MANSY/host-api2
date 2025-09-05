@@ -538,5 +538,185 @@
     "image": "https://images.pexels.com/photos/769749/pexels-photo-769749.jpeg",
     "sizes": ["M", "L", "XL"],
     "category": "shirts"
+  }و
+  {
+    "id": 61,
+    "title": "Vintage Graphic T-Shirt",
+    "description": "Retro-inspired graphic t-shirt with faded print for a vintage vibe.",
+    "price": 280,
+    "image": "https://images.pexels.com/photos/9558601/pexels-photo-9558601.jpeg",
+    "sizes": ["M", "L", "XL", "XXL"],
+    "category": "t-shirts"
+  },
+  {
+    "id": 62,
+    "title": "Printed Polo Shirt",
+    "description": "Casual polo shirt with subtle prints, perfect for everyday wear.",
+    "price": 350,
+    "image": "https://images.pexels.com/photos/720607/pexels-photo-720607.jpeg",
+    "sizes": ["M", "L", "XL"],
+    "category": "t-shirts"
+  },
+  {
+    "id": 63,
+    "title": "Oxford Button-Down Shirt",
+    "description": "Classic oxford shirt for formal or casual looks.",
+    "price": 480,
+    "image": "https://images.pexels.com/photos/769750/pexels-photo-769750.jpeg",
+    "sizes": ["M", "L", "XL"],
+    "category": "shirts"
+  },
+  {
+    "id": 64,
+    "title": "Linen Summer Shirt",
+    "description": "Breathable linen shirt ideal for hot weather.",
+    "price": 420,
+    "image": "https://images.pexels.com/photos/769734/pexels-photo-769734.jpeg",
+    "sizes": ["M", "L", "XL"],
+    "category": "shirts"
+  },
+  {
+    "id": 65,
+    "title": "Oversized Zip Hoodie",
+    "description": "Comfortable oversized hoodie with front zip.",
+    "price": 550,
+    "image": "https://images.pexels.com/photos/6311497/pexels-photo-6311497.jpeg",
+    "sizes": ["M", "L", "XL", "XXL"],
+    "category": "hoodies"
+  },
+  {
+    "id": 66,
+    "title": "Fleece Lined Hoodie",
+    "description": "Warm fleece-lined hoodie for winter days.",
+    "price": 600,
+    "image": "https://images.pexels.com/photos/5730957/pexels-photo-5730957.jpeg",
+    "sizes": ["M", "L", "XL"],
+    "category": "hoodies"
+  },
+  {
+    "id": 67,
+    "title": "Leather Bomber Jacket",
+    "description": "Stylish leather bomber jacket with inner lining.",
+    "price": 950,
+    "image": "https://images.pexels.com/photos/1124467/pexels-photo-1124467.jpeg",
+    "sizes": ["M", "L", "XL"],
+    "category": "jackets"
+  },
+  {
+    "id": 68,
+    "title": "Windproof Jacket",
+    "description": "Lightweight jacket resistant to wind and rain.",
+    "price": 700,
+    "image": "https://images.pexels.com/photos/6995583/pexels-photo-6995583.jpeg",
+    "sizes": ["M", "L", "XL"],
+    "category": "jackets"
+  },
+  {
+    "id": 69,
+    "title": "Straight Fit Jeans",
+    "description": "Comfortable straight-leg jeans for daily use.",
+    "price": 480,
+    "image": "https://images.pexels.com/photos/1598509/pexels-photo-1598509.jpeg",
+    "sizes": ["30", "32", "34", "36"],
+    "category": "pants"
+  },
+  {
+    "id": 70,
+    "title": "Jogger Pants",
+    "description": "Casual joggers with elastic cuffs for sporty look.",
+    "price": 400,
+    "image": "https://images.pexels.com/photos/2529149/pexels-photo-2529149.jpeg",
+    "sizes": ["M", "L", "XL"],
+    "category": "pants"
+  },
+  {
+    "id": 71,
+    "title": "Bermuda Shorts",
+    "description": "Relaxed bermuda shorts for summer outings.",
+    "price": 320,
+    "image": "https://images.pexels.com/photos/2529146/pexels-photo-2529146.jpeg",
+    "sizes": ["30", "32", "34"],
+    "category": "shorts"
+  },
+  {
+    "id": 72,
+    "title": "Cargo Shorts",
+    "description": "Utility cargo shorts with multiple pockets.",
+    "price": 350,
+    "image": "https://images.pexels.com/photos/1598504/pexels-photo-1598504.jpeg",
+    "sizes": ["30", "32", "34", "36"],
+    "category": "shorts"
+  },
+  {
+    "id": 73,
+    "title": "Casual Sneakers",
+    "description": "Everyday casual sneakers with cushioned sole.",
+    "price": 650,
+    "image": "https://images.pexels.com/photos/1464626/pexels-photo-1464626.jpeg",
+    "sizes": ["40", "41", "42", "43"],
+    "category": "shoes"
+  },
+  {
+    "id": 74,
+    "title": "Hiking Boots",
+    "description": "Durable hiking boots for outdoor adventures.",
+    "price": 850,
+    "image": "https://images.pexels.com/photos/2562993/pexels-photo-2562993.jpeg",
+    "sizes": ["41", "42", "43", "44"],
+    "category": "shoes"
+  },
+  {
+    "id": 75,
+    "title": "Baseball Cap",
+    "description": "Adjustable baseball cap for casual style.",
+    "price": 180,
+    "image": "https://images.pexels.com/photos/157676/pexels-photo-157676.jpeg",
+    "sizes": ["One Size"],
+    "category": "accessories"
+  },
+  {
+    "id": 76,
+    "title": "Leather Belt",
+    "description": "Genuine leather belt with classic buckle.",
+    "price": 250,
+    "image": "https://images.pexels.com/photos/2048549/pexels-photo-2048549.jpeg",
+    "sizes": ["M", "L", "XL"],
+    "category": "accessories"
+  },
+  {
+    "id": 77,
+    "title": "Round Sunglasses",
+    "description": "Trendy round sunglasses with UV protection.",
+    "price": 280,
+    "image": "https://images.pexels.com/photos/343721/pexels-photo-343721.jpeg",
+    "sizes": ["One Size"],
+    "category": "accessories"
+  },
+  {
+    "id": 78,
+    "title": "Analog Watch",
+    "description": "Classic analog watch with metal strap.",
+    "price": 800,
+    "image": "https://images.pexels.com/photos/277391/pexels-photo-277391.jpeg",
+    "sizes": ["One Size"],
+    "category": "accessories"
+  },
+  {
+    "id": 79,
+    "title": "Travel Backpack",
+    "description": "Spacious backpack for travel and daily use.",
+    "price": 550,
+    "image": "https://images.pexels.com/photos/373565/pexels-photo-373565.jpeg",
+    "sizes": ["One Size"],
+    "category": "accessories"
+  },
+  {
+    "id": 80,
+    "title": "Duffle Bag",
+    "description": "Versatile duffle bag for gym or weekends.",
+    "price": 650,
+    "image": "https://images.pexels.com/photos/373564/pexels-photo-373564.jpeg",
+    "sizes": ["One Size"],
+    "category": "accessories"
   }
 ]
