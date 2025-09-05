@@ -1,0 +1,542 @@
+[
+  {
+    "id": 1,
+    "title": "Minimal White Oversized T-Shirt",
+    "description": "A stylish and comfortable oversized T-shirt perfect for casual wear. Made from high-quality cotton, available in multiple colors.",
+    "price": 299,
+    "image": "https://images.pexels.com/photos/9558600/pexels-photo-9558600.jpeg",
+    "sizes": ["M", "L", "XL", "XXL"],
+    "category": "t-shirts"
+  },
+  {
+    "id": 2,
+    "title": "Vintage Skull Oversized T-Shirt",
+    "description": "A bold oversized T-shirt with a vintage skull design, perfect for a rebellious look.",
+    "price": 200,
+    "image": "https://images.pexels.com/photos/11149636/pexels-photo-11149636.jpeg",
+    "sizes": ["M", "L", "XL", "XXL"],
+    "category": "t-shirts"
+  },
+  {
+    "id": 3,
+    "title": "Concrete Jungle Oversized T-Shirt",
+    "description": "An urban-inspired oversized T-shirt with a gritty design, ideal for streetwear.",
+    "price": 250,
+    "image": "https://images.pexels.com/photos/10309411/pexels-photo-10309411.jpeg",
+    "sizes": ["M", "L", "XL", "XXL"],
+    "category": "t-shirts"
+  },
+  {
+    "id": 4,
+    "title": "Wild Graphic Oversized T-Shirt",
+    "description": "A vibrant oversized T-shirt with wild graphic prints, perfect for standing out.",
+    "price": 270,
+    "image": "https://images.pexels.com/photos/720606/pexels-photo-720606.jpeg",
+    "sizes": ["M", "L", "XL", "XXL"],
+    "category": "t-shirts"
+  },
+  {
+    "id": 5,
+    "title": "Neon Pulse Oversized T-Shirt",
+    "description": "A neon-inspired oversized T-shirt that glows with vibrant energy.",
+    "price": 275,
+    "image": "https://images.pexels.com/photos/1183266/pexels-photo-1183266.jpeg",
+    "sizes": ["M", "L", "XL", "XXL"],
+    "category": "t-shirts"
+  },
+  {
+    "id": 6,
+    "title": "Desert Camo Oversized T-Shirt",
+    "description": "A rugged oversized T-shirt with a desert camo pattern, great for outdoor vibes.",
+    "price": 285,
+    "image": "https://images.pexels.com/photos/1040945/pexels-photo-1040945.jpeg",
+    "sizes": ["M", "L", "XL", "XXL"],
+    "category": "t-shirts"
+  },
+  {
+    "id": 7,
+    "title": "Bold Neon Oversized T-Shirt",
+    "description": "A neon-inspired oversized T-shirt with a bold design for a striking look.",
+    "price": 295,
+    "image": "https://images.pexels.com/photos/1356206/pexels-photo-1356206.jpeg",
+    "sizes": ["M", "L", "XL", "XXL"],
+    "category": "t-shirts"
+  },
+  {
+    "id": 8,
+    "title": "Enemy Graphic T-Shirt",
+    "description": "A sleek Enemy T-shirt with a minimalist design, perfect for casual wear.",
+    "price": 275,
+    "image": "https://images.pexels.com/photos/1124465/pexels-photo-1124465.jpeg",
+    "sizes": ["M", "L", "XL", "XXL"],
+    "category": "t-shirts"
+  },
+  {
+    "id": 9,
+    "title": "Enemy Skull T-Shirt",
+    "description": "A stylish Enemy T-shirt with a bold graphic, ideal for a standout look.",
+    "price": 185,
+    "image": "https://images.pexels.com/photos/1276553/pexels-photo-1276553.jpeg",
+    "sizes": ["M", "L", "XL", "XXL"],
+    "category": "t-shirts"
+  },
+  {
+    "id": 10,
+    "title": "Enemy Black T-Shirt",
+    "description": "A sleek Enemy T-shirt with a minimalist design, perfect for casual wear.",
+    "price": 185,
+    "image": "https://images.pexels.com/photos/1152077/pexels-photo-1152077.jpeg",
+    "sizes": ["M", "L", "XL", "XXL"],
+    "category": "t-shirts"
+  },
+  {
+    "id": 11,
+    "title": "Enemy Street T-Shirt",
+    "description": "A bold Enemy T-shirt with a unique graphic, great for streetwear.",
+    "price": 185,
+    "image": "https://images.pexels.com/photos/1040945/pexels-photo-1040945.jpeg",
+    "sizes": ["M", "L", "XL", "XXL"],
+    "category": "t-shirts"
+  },
+  {
+    "id": 12,
+    "title": "Enemy Classic T-Shirt",
+    "description": "Another stylish Enemy T-shirt with a minimalist design.",
+    "price": 185,
+    "image": "https://images.pexels.com/photos/720606/pexels-photo-720606.jpeg",
+    "sizes": ["M", "L", "XL", "XXL"],
+    "category": "t-shirts"
+  },
+  {
+    "id": 13,
+    "title": "Enemy Vibrant T-Shirt",
+    "description": "A vibrant Enemy T-shirt with a bold design for casual wear.",
+    "price": 185,
+    "image": "https://images.pexels.com/photos/1183266/pexels-photo-1183266.jpeg",
+    "sizes": ["M", "L", "XL", "XXL"],
+    "category": "t-shirts"
+  },
+  {
+    "id": 14,
+    "title": "Slim Fit Blue Jeans",
+    "description": "Classic slim fit jeans in a versatile blue wash, perfect for everyday wear.",
+    "price": 450,
+    "image": "https://images.pexels.com/photos/1598505/pexels-photo-1598505.jpeg",
+    "sizes": ["30", "32", "34", "36"],
+    "category": "pants"
+  },
+  {
+    "id": 15,
+    "title": "Black Slim Fit Jeans",
+    "description": "Timeless black slim jeans that pair with anything for a sleek look.",
+    "price": 470,
+    "image": "https://images.pexels.com/photos/1598507/pexels-photo-1598507.jpeg",
+    "sizes": ["30", "32", "34", "36"],
+    "category": "pants"
+  },
+  {
+    "id": 16,
+    "title": "Relaxed Fit Cargo Pants",
+    "description": "Comfortable cargo pants with multiple pockets, ideal for casual outings.",
+    "price": 420,
+    "image": "https://images.pexels.com/photos/1598508/pexels-photo-1598508.jpeg",
+    "sizes": ["M", "L", "XL"],
+    "category": "pants"
+  },
+  {
+    "id": 17,
+    "title": "Beige Chino Pants",
+    "description": "Smart casual beige chinos, a versatile piece for any wardrobe.",
+    "price": 400,
+    "image": "https://images.pexels.com/photos/1598506/pexels-photo-1598506.jpeg",
+    "sizes": ["30", "32", "34", "36"],
+    "category": "pants"
+  },
+  {
+    "id": 18,
+    "title": "Classic Grey Hoodie",
+    "description": "A warm grey hoodie made from premium cotton, perfect for layering.",
+    "price": 350,
+    "image": "https://images.pexels.com/photos/5730956/pexels-photo-5730956.jpeg",
+    "sizes": ["M", "L", "XL", "XXL"],
+    "category": "hoodies"
+  },
+  {
+    "id": 19,
+    "title": "Black Pullover Hoodie",
+    "description": "Classic pullover hoodie in black for a timeless streetwear look.",
+    "price": 360,
+    "image": "https://images.pexels.com/photos/6311496/pexels-photo-6311496.jpeg",
+    "sizes": ["M", "L", "XL", "XXL"],
+    "category": "hoodies"
+  },
+  {
+    "id": 20,
+    "title": "Denim Jacket",
+    "description": "A rugged denim jacket that never goes out of style.",
+    "price": 550,
+    "image": "https://images.pexels.com/photos/1143647/pexels-photo-1143647.jpeg",
+    "sizes": ["M", "L", "XL"],
+    "category": "jackets"
+  },
+  {
+    "id": 21,
+    "title": "Leather Biker Jacket",
+    "description": "A premium black leather biker jacket with zipper details for a bold streetwear look.",
+    "price": 1200,
+    "image": "https://images.pexels.com/photos/1124466/pexels-photo-1124466.jpeg",
+    "sizes": ["M", "L", "XL"],
+    "category": "jackets"
+  },
+  {
+    "id": 22,
+    "title": "Puffer Jacket",
+    "description": "Warm and cozy puffer jacket, perfect for cold weather.",
+    "price": 950,
+    "image": "https://images.pexels.com/photos/6995582/pexels-photo-6995582.jpeg",
+    "sizes": ["M", "L", "XL", "XXL"],
+    "category": "jackets"
+  },
+  {
+    "id": 23,
+    "title": "Classic White Sneakers",
+    "description": "Minimal white sneakers that go with everything.",
+    "price": 650,
+    "image": "https://images.pexels.com/photos/1464625/pexels-photo-1464625.jpeg",
+    "sizes": ["40", "41", "42", "43", "44"],
+    "category": "shoes"
+  },
+  {
+    "id": 24,
+    "title": "Black High-Top Sneakers",
+    "description": "Trendy black high-top sneakers for an urban vibe.",
+    "price": 700,
+    "image": "https://images.pexels.com/photos/1456706/pexels-photo-1456706.jpeg",
+    "sizes": ["40", "41", "42", "43", "44"],
+    "category": "shoes"
+  },
+  {
+    "id": 25,
+    "title": "Running Trainers",
+    "description": "Lightweight running trainers designed for comfort and performance.",
+    "price": 720,
+    "image": "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg",
+    "sizes": ["40", "41", "42", "43", "44"],
+    "category": "shoes"
+  },
+  {
+    "id": 26,
+    "title": "Leather Formal Shoes",
+    "description": "Elegant brown leather shoes suitable for formal occasions.",
+    "price": 850,
+    "image": "https://images.pexels.com/photos/2562992/pexels-photo-2562992.jpeg",
+    "sizes": ["40", "41", "42", "43", "44"],
+    "category": "shoes"
+  },
+  {
+    "id": 27,
+    "title": "Sports Cap",
+    "description": "Adjustable sports cap for casual and outdoor wear.",
+    "price": 150,
+    "image": "https://images.pexels.com/photos/157675/pexels-photo-157675.jpeg",
+    "sizes": ["One Size"],
+    "category": "accessories"
+  },
+  {
+    "id": 28,
+    "title": "Black Leather Belt",
+    "description": "Classic leather belt with a metal buckle, perfect for jeans or chinos.",
+    "price": 220,
+    "image": "https://images.pexels.com/photos/2048548/pexels-photo-2048548.jpeg",
+    "sizes": ["M", "L", "XL"],
+    "category": "accessories"
+  },
+  {
+    "id": 29,
+    "title": "Aviator Sunglasses",
+    "description": "Stylish aviator sunglasses with UV protection.",
+    "price": 300,
+    "image": "https://images.pexels.com/photos/343720/pexels-photo-343720.jpeg",
+    "sizes": ["One Size"],
+    "category": "accessories"
+  },
+  {
+    "id": 30,
+    "title": "Classic Wristwatch",
+    "description": "Minimalist wristwatch with leather strap and stainless steel case.",
+    "price": 950,
+    "image": "https://images.pexels.com/photos/277390/pexels-photo-277390.jpeg",
+    "sizes": ["One Size"],
+    "category": "accessories"
+  },
+  {
+    "id": 31,
+    "title": "Slim Fit Polo Shirt",
+    "description": "Classic slim fit polo shirt with short sleeves and breathable fabric.",
+    "price": 320,
+    "image": "https://images.pexels.com/photos/1040945/pexels-photo-1040945.jpeg",
+    "sizes": ["M", "L", "XL", "XXL"],
+    "category": "t-shirts"
+  },
+  {
+    "id": 32,
+    "title": "Striped Casual Shirt",
+    "description": "Light striped button-up shirt perfect for semi-formal occasions.",
+    "price": 450,
+    "image": "https://images.pexels.com/photos/769749/pexels-photo-769749.jpeg",
+    "sizes": ["M", "L", "XL"],
+    "category": "shirts"
+  },
+  {
+    "id": 33,
+    "title": "Checked Flannel Shirt",
+    "description": "Warm checked flannel shirt, ideal for layering in colder months.",
+    "price": 400,
+    "image": "https://images.pexels.com/photos/769733/pexels-photo-769733.jpeg",
+    "sizes": ["M", "L", "XL"],
+    "category": "shirts"
+  },
+  {
+    "id": 34,
+    "title": "Basic Black Hoodie",
+    "description": "Soft cotton hoodie in black, a wardrobe essential.",
+    "price": 500,
+    "image": "https://images.pexels.com/photos/6311496/pexels-photo-6311496.jpeg",
+    "sizes": ["M", "L", "XL", "XXL"],
+    "category": "hoodies"
+  },
+  {
+    "id": 35,
+    "title": "Zip-Up Grey Hoodie",
+    "description": "Casual grey zip-up hoodie for everyday wear.",
+    "price": 520,
+    "image": "https://images.pexels.com/photos/5730956/pexels-photo-5730956.jpeg",
+    "sizes": ["M", "L", "XL"],
+    "category": "hoodies"
+  },
+  {
+    "id": 36,
+    "title": "Bomber Jacket",
+    "description": "Trendy bomber jacket with ribbed cuffs and hem.",
+    "price": 800,
+    "image": "https://images.pexels.com/photos/1143647/pexels-photo-1143647.jpeg",
+    "sizes": ["M", "L", "XL"],
+    "category": "jackets"
+  },
+  {
+    "id": 37,
+    "title": "Denim Jacket",
+    "description": "Classic blue denim jacket for casual street style.",
+    "price": 750,
+    "image": "https://images.pexels.com/photos/1124466/pexels-photo-1124466.jpeg",
+    "sizes": ["M", "L", "XL"],
+    "category": "jackets"
+  },
+  {
+    "id": 38,
+    "title": "Chinos Pants",
+    "description": "Comfortable slim fit chinos for smart casual outfits.",
+    "price": 420,
+    "image": "https://images.pexels.com/photos/1598506/pexels-photo-1598506.jpeg",
+    "sizes": ["30", "32", "34", "36"],
+    "category": "pants"
+  },
+  {
+    "id": 39,
+    "title": "Cargo Pants",
+    "description": "Utility cargo pants with side pockets, perfect for outdoor wear.",
+    "price": 460,
+    "image": "https://images.pexels.com/photos/1598508/pexels-photo-1598508.jpeg",
+    "sizes": ["30", "32", "34", "36", "38"],
+    "category": "pants"
+  },
+  {
+    "id": 40,
+    "title": "Slim Fit Black Jeans",
+    "description": "Stylish slim fit black jeans for a sleek look.",
+    "price": 500,
+    "image": "https://images.pexels.com/photos/1598507/pexels-photo-1598507.jpeg",
+    "sizes": ["30", "32", "34", "36", "38"],
+    "category": "pants"
+  },
+  {
+    "id": 41,
+    "title": "Distressed Blue Jeans",
+    "description": "Casual distressed denim jeans with a modern finish.",
+    "price": 550,
+    "image": "https://images.pexels.com/photos/1598505/pexels-photo-1598505.jpeg",
+    "sizes": ["30", "32", "34", "36", "38"],
+    "category": "pants"
+  },
+  {
+    "id": 42,
+    "title": "Track Pants",
+    "description": "Comfortable athletic track pants for gym and casual wear.",
+    "price": 380,
+    "image": "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg",
+    "sizes": ["M", "L", "XL"],
+    "category": "pants"
+  },
+  {
+    "id": 43,
+    "title": "Running Shorts",
+    "description": "Lightweight running shorts for maximum performance.",
+    "price": 250,
+    "image": "https://images.pexels.com/photos/2529147/pexels-photo-2529147.jpeg",
+    "sizes": ["M", "L", "XL"],
+    "category": "shorts"
+  },
+  {
+    "id": 44,
+    "title": "Casual Denim Shorts",
+    "description": "Stylish denim shorts for summer casual outfits.",
+    "price": 300,
+    "image": "https://images.pexels.com/photos/1598505/pexels-photo-1598505.jpeg",
+    "sizes": ["30", "32", "34", "36"],
+    "category": "shorts"
+  },
+  {
+    "id": 45,
+    "title": "Sports Sneakers",
+    "description": "Breathable sports sneakers designed for training.",
+    "price": 600,
+    "image": "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg",
+    "sizes": ["40", "41", "42", "43", "44"],
+    "category": "shoes"
+  },
+  {
+    "id": 46,
+    "title": "Loafers",
+    "description": "Elegant loafers made of soft suede leather.",
+    "price": 720,
+    "image": "https://images.pexels.com/photos/2562992/pexels-photo-2562992.jpeg",
+    "sizes": ["40", "41", "42", "43", "44"],
+    "category": "shoes"
+  },
+  {
+    "id": 47,
+    "title": "Chelsea Boots",
+    "description": "Classic leather Chelsea boots with elastic side panels.",
+    "price": 900,
+    "image": "https://images.pexels.com/photos/2562992/pexels-photo-2562992.jpeg",
+    "sizes": ["41", "42", "43", "44", "45"],
+    "category": "shoes"
+  },
+  {
+    "id": 48,
+    "title": "Beanie Hat",
+    "description": "Warm knitted beanie for winter.",
+    "price": 180,
+    "image": "https://images.pexels.com/photos/157675/pexels-photo-157675.jpeg",
+    "sizes": ["One Size"],
+    "category": "accessories"
+  },
+  {
+    "id": 49,
+    "title": "Leather Wallet",
+    "description": "Compact genuine leather wallet with multiple slots.",
+    "price": 350,
+    "image": "https://images.pexels.com/photos/2048548/pexels-photo-2048548.jpeg",
+    "sizes": ["One Size"],
+    "category": "accessories"
+  },
+  {
+    "id": 50,
+    "title": "Sports Backpack",
+    "description": "Durable sports backpack with spacious compartments.",
+    "price": 500,
+    "image": "https://images.pexels.com/photos/373564/pexels-photo-373564.jpeg",
+    "sizes": ["One Size"],
+    "category": "accessories"
+  },
+  {
+    "id": 51,
+    "title": "Gym Duffle Bag",
+    "description": "Spacious duffle bag for gym and travel.",
+    "price": 600,
+    "image": "https://images.pexels.com/photos/373563/pexels-photo-373563.jpeg",
+    "sizes": ["One Size"],
+    "category": "accessories"
+  },
+  {
+    "id": 52,
+    "title": "Classic Tie",
+    "description": "Formal silk tie in navy blue.",
+    "price": 200,
+    "image": "https://images.pexels.com/photos/343720/pexels-photo-343720.jpeg",
+    "sizes": ["One Size"],
+    "category": "accessories"
+  },
+  {
+    "id": 53,
+    "title": "Bow Tie",
+    "description": "Elegant black bow tie for formal events.",
+    "price": 180,
+    "image": "https://images.pexels.com/photos/343720/pexels-photo-343720.jpeg",
+    "sizes": ["One Size"],
+    "category": "accessories"
+  },
+  {
+    "id": 54,
+    "title": "Wool Scarf",
+    "description": "Soft wool scarf to keep you warm in winter.",
+    "price": 250,
+    "image": "https://images.pexels.com/photos/157675/pexels-photo-157675.jpeg",
+    "sizes": ["One Size"],
+    "category": "accessories"
+  },
+  {
+    "id": 55,
+    "title": "Sports Watch",
+    "description": "Digital sports watch with waterproof design.",
+    "price": 700,
+    "image": "https://images.pexels.com/photos/277390/pexels-photo-277390.jpeg",
+    "sizes": ["One Size"],
+    "category": "accessories"
+  },
+  {
+    "id": 56,
+    "title": "Classic Hat",
+    "description": "Casual cotton hat suitable for sunny days.",
+    "price": 160,
+    "image": "https://images.pexels.com/photos/157675/pexels-photo-157675.jpeg",
+    "sizes": ["One Size"],
+    "category": "accessories"
+  },
+  {
+    "id": 57,
+    "title": "Sports Jacket",
+    "description": "Lightweight windbreaker jacket for outdoor activities.",
+    "price": 650,
+    "image": "https://images.pexels.com/photos/6995582/pexels-photo-6995582.jpeg",
+    "sizes": ["M", "L", "XL"],
+    "category": "jackets"
+  },
+  {
+    "id": 58,
+    "title": "Wool Overcoat",
+    "description": "Elegant long wool overcoat, perfect for winter.",
+    "price": 1100,
+    "image": "https://images.pexels.com/photos/6995582/pexels-photo-6995582.jpeg",
+    "sizes": ["M", "L", "XL"],
+    "category": "jackets"
+  },
+  {
+    "id": 59,
+    "title": "Graphic Oversized T-Shirt",
+    "description": "Trendy oversized t-shirt with bold graphics.",
+    "price": 320,
+    "image": "https://images.pexels.com/photos/720606/pexels-photo-720606.jpeg",
+    "sizes": ["M", "L", "XL", "XXL"],
+    "category": "t-shirts"
+  },
+  {
+    "id": 60,
+    "title": "Formal White Shirt",
+    "description": "Elegant long-sleeve white shirt, a must-have for formal occasions.",
+    "price": 480,
+    "image": "https://images.pexels.com/photos/769749/pexels-photo-769749.jpeg",
+    "sizes": ["M", "L", "XL"],
+    "category": "shirts"
+  }
+]
